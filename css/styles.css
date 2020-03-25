@@ -1,0 +1,22 @@
+.sporty
+{
+  float: right;
+  height: 600;
+ }
+ .penalty{
+   float: left;
+ }
+.deadly{
+  float: left;
+  height: 460px;
+}
+.friends{
+  float: right;
+  margin-top: 50px;
+}
+sc-friends{
+  float: left;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
